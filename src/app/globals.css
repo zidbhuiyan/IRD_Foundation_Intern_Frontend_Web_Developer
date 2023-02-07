@@ -6,3 +6,7 @@ html{
   scroll-behavior: smooth;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+.custom-img{
+  background-image: url(https://tailwindcss.com/_next/static/media/installation.50c59fdd.jpg);
+}
